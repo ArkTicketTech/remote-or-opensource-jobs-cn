@@ -26,8 +26,7 @@
 ## 联系方式
 ```
 
-# 联系方式
-![](https://github.com/wfnuser/wfnuser/raw/main/banner.jpg)
-
 # 讨论社群临时二维码
 <img src=https://user-images.githubusercontent.com/8191686/216216327-0cf185dd-1aea-4e22-a41b-fd500e5ff5e4.png width=200px />
+
+二维码过期可+v: wfnusee

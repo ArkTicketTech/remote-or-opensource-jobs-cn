@@ -29,7 +29,12 @@
 ## 联系方式
 ```
 
-# 讨论社群临时二维码
-<img src=https://user-images.githubusercontent.com/8191686/216216327-0cf185dd-1aea-4e22-a41b-fd500e5ff5e4.png width=200px />
+# 推文
+### 地理套利指北
+1. [程序员逃离北上广大厂来到成都2年多，聊聊我的感想](https://mp.weixin.qq.com/s/IFBrGtfVUFNUhVw0W9j8Ew)
 
-二维码过期可+v: wfnusee
+# 讨论社群临时二维码
+已满200人 可+v: wfnusee
+![image](https://user-images.githubusercontent.com/8191686/218789470-c3843915-19ea-4b52-9b97-146cf2762eb0.png)
+
+

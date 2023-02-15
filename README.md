@@ -37,4 +37,7 @@
 已满200人 可+v: wfnusee
 ![image](https://user-images.githubusercontent.com/8191686/218789470-c3843915-19ea-4b52-9b97-146cf2762eb0.png)
 
+# 觉得有帮助的话可以点个star哦
+![star history](https://api.star-history.com/svg?repos=arktickettech/remote-or-opensource-jobs-cn&type=Date)
+
 
